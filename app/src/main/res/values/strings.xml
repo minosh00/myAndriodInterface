@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">inventory</string>
+    <string name="name" />
+    <string name="name1">Enter your name</string>
+    <string name="name2">"Enter Your Name "</string>
+    <string name="phone">Enter Your PNumber</string>
+    <string name="pnumber">Enter Phone Number</string>
+    <string name="FoodName">"Enter Food Name "</string>
+    <string name="description">Enter Food description</string>
+    <string name="Price">"Enter Price "</string>
+    <string name="btn1">Add food</string>
+    <string name="btn2">Pay Now</string>
+    <string name="updatename">"Enter Food Name "</string>
+    <string name="updatedescription" />
+    <string name="updatedescriptions">enter description</string>
+    <string name="updatePrice">update your new price</string>
+    <string name="updatefood">update</string>
+    <string name="mainupdate">update</string>
+    <string name="updatefoo" />
+    <string name="listofall" />
+    <string name="delete">delete</string>
+    <string name="addnewfood" />
+</resources>
